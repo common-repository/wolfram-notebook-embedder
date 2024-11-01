@@ -1,0 +1,12 @@
+.wneFormWrapper.wneHide{
+display: none;
+}
+
+button.wneEditButton.wneHide{
+display: none;	
+}
+
+div.wneFieldWrap{
+display: block;
+width: 100%;
+}

@@ -1,0 +1,1 @@
+edButtons[edButtons.length] = new edButton('Wolfram Notebook','Wolfram Notebook','[WolframNotebook url="" width="" maxHeight="" blockInteractivity=""]','','');
